@@ -5,7 +5,13 @@ COO at [Programming Hero](https://web.programming-hero.com/) & [Phitron](https:/
 Started programming at 15. 10+ years across engineering, product and operations.
 Now helping developers build careers in the AI era, in Bangladesh and globally.
 
-**Let's Code Your Career.**
+---
+
+**What I'm building now**
+
+- **[Programming Hero](https://web.programming-hero.com/)** — web development courses that take beginners to job-ready.
+- **[Phitron](https://phitron.io/)** — CS fundamentals, problem solving and AI/ML for serious learners.
+- **[rakib.xyz](https://www.rakib.xyz)** — my notes and writing on careers, tech and building teams.
 
 ---
 
